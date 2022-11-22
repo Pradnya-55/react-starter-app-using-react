@@ -1,7 +1,10 @@
 function Apple(){
     return (
         <>
-            <h1>🍎 Apple</h1>
+         <div className="apple-container">
+
+               <h1>🍎 Apple</h1>
+            </div>
         </>
     )
 }

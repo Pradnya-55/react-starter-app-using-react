@@ -5,8 +5,8 @@ function App(){
     return (
         <>
            <Mango />
-           
-           <Mango />
+
+           <Apple/>
         </>
     )
 }

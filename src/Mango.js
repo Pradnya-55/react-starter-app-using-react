@@ -7,6 +7,7 @@ function Mango() {
                 <h1 >Mango🥭</h1>
 
             </div>
+
             <div className="mango-container">
 
                 <h1 >Mango🥭</h1>
