@@ -1,7 +1,17 @@
-function Mango(){
+import "./Mango.css"
+function Mango() {
     return (
         <>
-            <h1>Mango🥭</h1>
+            <div className="mango-container">
+
+                <h1 >Mango🥭</h1>
+
+            </div>
+            <div className="mango-container">
+
+                <h1 >Mango🥭</h1>
+
+            </div>
         </>
     )
 }
